@@ -71,18 +71,3 @@ The following **RESTful APIs** are exposed by the Node/Express backend and inter
 -----
 
 
-## 📸 Screenshots
-
-### 1\. Home
-![Home](ScreenShot/Home.png)
-
-### 2\. Cart
-![Cart](ScreenShot/Cart.png)
-
-### 3\. Check Out
-![Check Out ](ScreenShot/Checkout.png)
-
-
-### 4\. Order Confirmed 
-![Order](ScreenShot/Order.png)
-
